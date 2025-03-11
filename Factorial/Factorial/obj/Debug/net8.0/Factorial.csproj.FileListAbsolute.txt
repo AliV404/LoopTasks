@@ -1,0 +1,15 @@
+C:\Users\Ali\source\repos\Factorial\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\Ali\source\repos\Factorial\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\Ali\source\repos\Factorial\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\Ali\source\repos\Factorial\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\Ali\source\repos\Factorial\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\Ali\source\repos\Factorial\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\Ali\source\repos\Factorial\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Factorial\Factorial\obj\Debug\net8.0\Factorial.sourcelink.json
+C:\Users\Ali\source\repos\Factorial\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\Ali\source\repos\Factorial\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\Ali\source\repos\Factorial\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\Ali\source\repos\Factorial\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\Ali\source\repos\Factorial\Factorial\obj\Debug\net8.0\ref\Factorial.dll

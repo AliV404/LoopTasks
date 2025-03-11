@@ -1,0 +1,15 @@
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\bin\Debug\net8.0\LoopsTask1.exe
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\bin\Debug\net8.0\LoopsTask1.deps.json
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\bin\Debug\net8.0\LoopsTask1.runtimeconfig.json
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\bin\Debug\net8.0\LoopsTask1.dll
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\bin\Debug\net8.0\LoopsTask1.pdb
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\obj\Debug\net8.0\LoopsTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\obj\Debug\net8.0\LoopsTask1.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\obj\Debug\net8.0\LoopsTask1.AssemblyInfo.cs
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\obj\Debug\net8.0\LoopsTask1.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\obj\Debug\net8.0\LoopsTask1.sourcelink.json
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\obj\Debug\net8.0\LoopsTask1.dll
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\obj\Debug\net8.0\refint\LoopsTask1.dll
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\obj\Debug\net8.0\LoopsTask1.pdb
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\obj\Debug\net8.0\LoopsTask1.genruntimeconfig.cache
+C:\Users\Ali\source\repos\LoopsTask1\LoopsTask1\obj\Debug\net8.0\ref\LoopsTask1.dll

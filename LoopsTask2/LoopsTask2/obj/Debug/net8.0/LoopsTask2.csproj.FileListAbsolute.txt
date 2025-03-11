@@ -1,0 +1,15 @@
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\bin\Debug\net8.0\LoopsTask2.exe
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\bin\Debug\net8.0\LoopsTask2.deps.json
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\bin\Debug\net8.0\LoopsTask2.runtimeconfig.json
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\bin\Debug\net8.0\LoopsTask2.dll
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\bin\Debug\net8.0\LoopsTask2.pdb
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\obj\Debug\net8.0\LoopsTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\obj\Debug\net8.0\LoopsTask2.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\obj\Debug\net8.0\LoopsTask2.AssemblyInfo.cs
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\obj\Debug\net8.0\LoopsTask2.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\obj\Debug\net8.0\LoopsTask2.sourcelink.json
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\obj\Debug\net8.0\LoopsTask2.dll
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\obj\Debug\net8.0\refint\LoopsTask2.dll
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\obj\Debug\net8.0\LoopsTask2.pdb
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\obj\Debug\net8.0\LoopsTask2.genruntimeconfig.cache
+C:\Users\Ali\source\repos\LoopsTask2\LoopsTask2\obj\Debug\net8.0\ref\LoopsTask2.dll
